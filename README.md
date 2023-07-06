@@ -11,12 +11,12 @@
 
 ## 영상
 
-[Code Monkey - Unity DOTS 1.0 in 60 MINUTES!][https://youtu.be/H7zAORa3Ux0]
+[Code Monkey - Unity DOTS 1.0 in 60 MINUTES!](https://youtu.be/H7zAORa3Ux0)
 
-[Unity Japan - はじめての Unity ECS - Entity Component System を使ってみよう！][https://youtu.be/vzF00Wb6wNY]
+[Unity Japan - はじめての Unity ECS - Entity Component System を使ってみよう！](https://youtu.be/vzF00Wb6wNY)
 
-[G.Physics l 지피직스 - ECS : Unity ECS, Unity DOTS (초급 강좌)][https://youtu.be/7UphiG8UtTg]
+[G.Physics l 지피직스 - ECS : Unity ECS, Unity DOTS (초급 강좌)](https://youtu.be/7UphiG8UtTg)
 
 ## 코드
 
-[keijiro/ECS-Strawman][https://github.com/keijiro/ECS-Strawman]
+[keijiro/ECS-Strawman](https://github.com/keijiro/ECS-Strawman)
